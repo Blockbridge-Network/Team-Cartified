@@ -58,3 +58,8 @@ Buyer and delivery person see:
 Burned NFT removed from UI.
 
 Toast: "Delivery confirmed successfully!"
+
+**Video Demo**
+
+https://github.com/user-attachments/assets/5c94426f-4634-4965-bcb9-1cdd4f1ce401
+
